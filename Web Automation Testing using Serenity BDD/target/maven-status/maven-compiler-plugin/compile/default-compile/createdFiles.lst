@@ -1,0 +1,4 @@
+org\example\pageObject\LoginPage.class
+org\example\pageObject\PaymentPage.class
+org\example\pageObject\CartPage.class
+org\example\pageObject\InventoryPage.class
